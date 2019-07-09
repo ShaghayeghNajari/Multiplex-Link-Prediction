@@ -1,4 +1,4 @@
-This Code is implementation of our paper titled as "Link Prediction based on Interlayer Similarity (LIPS)"
+This Code is implementation of our paper titled as "Link prediction in multiplex networks based on interlayer similarity (LIPS)"
 
 If you use this code please cite our article as:
 
